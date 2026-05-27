@@ -15,10 +15,13 @@ I added labels and error messages for accessibility.
 Tab navigation works through inputs.
 
 4. AI usage
-
-Modified the code by simplifying functions and fixing selectors to match my HTML.
+   Chatgpt
+   Modified the code by simplifying functions and fixing selectors to match my HTML.
 
 5. Honest gap
 
 The UI is basic and not highly animated.
 If I had more time, I would improve design, add transitions, and better button active states.
+
+6. Rounding policy
+   Standard rounding to 2 decimal places using toFixed(2) for all outputs.
